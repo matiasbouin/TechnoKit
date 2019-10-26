@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+h1{
+
+    font-weight: bold;
+    font-size: 5rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+button{
+    margin-bottom: 5rem;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 15px 32px;
+}
+
+.col-centered{
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+}
